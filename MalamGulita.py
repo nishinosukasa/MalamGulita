@@ -1,7 +1,7 @@
 ##       Malam Gulita Penuh kenangan
 # -*- coding: utf-8 -*-
 #   [+][+][+][+][+][+][+][+][+][+][+][+][+][+][+][+][+][+]+][+][+][+][+][+]
-#[+]Name    : Malam Gulti                                                    [+]
+#[+]Name    : Malam Gultia                                                   [+]
 #[+]Author  : Codename [Joker Eden]                                          [+]
 #[+]Website : https://cruznos.blogspot.com                                   [+]
 #[+]Github  : github.com/nishinosukasa                                       [+]
@@ -156,7 +156,7 @@ def moh() :
         if the_choice2 == 3 :
             os.system ("apt-get update && apt-get upgarde ")
             os.system ("apt-get install perl && apt-get install git ")
-            os.system ("https://github.com/rezasp/joomscan.git ")
+            os.system ("git clone https://github.com/rezasp/joomscan.git ")
         if the_choice2 == 4 :
             os.system ("apt-get update && apt-get upgrade ")
             os.system ("apt-get install perl && apt-get install git ")
@@ -173,8 +173,8 @@ def moh() :
             os.system ("apt-get update && apt-get upgrade ")
             os.system ("apt-get install perl && apt-get install git ")
             os.system ("git clone https://github.com/AlisamTechnology/PRESTA-modules-shell-exploit ")
-            os.system ("cpnm install LWP::UserAgent ")
-            os.system ("cpnm install HTTP::Request ")
+            os.system ("cpan install LWP::UserAgent ")
+            os.system ("cpan install HTTP::Request ")
         if the_choice2 == 7 :
             os.system ("apt-get update && apt-get upgrade ")
             os.system ("apt-get install python2 && apt-get install git ")
