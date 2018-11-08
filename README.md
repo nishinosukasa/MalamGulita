@@ -1,7 +1,7 @@
 # MalamGulita
 Tools Installeres Very Easy 
 
-# Installation and Use MalamGulita
+### Installation and Use MalamGulita
 ```
 apt-get install python2 git 
 apt-get install curl wget 
